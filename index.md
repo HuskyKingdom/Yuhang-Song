@@ -21,11 +21,13 @@ To be filled.
 
 ### Industrial Background
 
-> Working as group Founder & CTO at Technical Department Luzhou JiKong Network Technology co., ltd, China
+> Founder of TOPSOFT-INT Research Group | Now | --
 > 
-> Was an Assistant lecturer at Guoxin Lanqiao Education Technology (Beijing) Co., Ltd, China | Jun 2021 - Sep 2021
+> Working as group Founder & CTO at Technical Department Luzhou JiKong Network Technology co., ltd | Now | China
 > 
-> Was Technical consultant, Sichuan Xulai co., ltd | Sep 2020 - Sep 2021
+> Was an Assistant lecturer at Guoxin Lanqiao Education Technology (Beijing) Co., Ltd, China | Jun 2021 - Sep 2021 | China
+> 
+> Was Technical consultant, Sichuan Xulai co., ltd | Sep 2020 - Sep 2021 | China
 
 ### Educations
 
