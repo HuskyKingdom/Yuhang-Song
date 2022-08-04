@@ -1,36 +1,21 @@
 ## Research & Curriculum Vitae
 
-Currently undertaking Phd degree at University of Liverpool & National Tsing Hua University.
+Currently undertaking PhD degree at University of Liverpool & National Tsing Hua University.
 
 ### Research Interests
 
 - Deep Learning, Deep Reinforcement Learning, Computer Vision
-- Autonomous systems
+- Autonomous Systems
 
-```markdown
-Syntax highlighted code block
+### PhD Research Topic
 
-# Header 1
-## Header 2
-### Header 3
+Development of Energy Efficient Machine Learning Models
 
-- Bulleted
-- List
+### Publitions
 
-1. Numbered
-2. List
+To be filled.
 
-**Bold** and _Italic_ and `Code` text
+### Conferences & Societies
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HuskyKingdom/index/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Founder of TOPSOFT INTERNATIONAL research group
+- FIT FREEBUFF 2015 Shanghai Internet Security Conference
