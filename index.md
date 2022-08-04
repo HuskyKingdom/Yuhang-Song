@@ -29,6 +29,4 @@ FIT FREEBUFF 2015 Shanghai Internet Security Conference.
 [Yuhang_CV.pdf](https://prophetsrc-1305001068.cos.ap-chengdu.myqcloud.com/YuhangSong_CV.pdf)
 
 
-[Development of Energy Efficient Machine Learning Models Research Proposal](https://prophetsrc-1305001068.cos.ap-chengdu.myqcloud.com/Development%20of%20Energy%20Efficient%20Machine%20Learning%20Models%20
-%20PhD%20Research%20Proposal_publishing%20format.pdf)
-
+[Development of Energy Efficient Machine Learning Models Research Proposal](https://prophetsrc-1305001068.cos.ap-chengdu.myqcloud.com/PhD%20Research%20Proposal.pdf)
