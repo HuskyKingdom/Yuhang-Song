@@ -22,13 +22,17 @@ To be filled.
 ### Industrial Background
 
 > Working as group Founder & CTO at Technical Department Luzhou JiKong Network Technology co., ltd, China
+> 
 > Was an Assistant lecturer at Guoxin Lanqiao Education Technology (Beijing) Co., Ltd, China | Jun 2021 - Sep 2021
+> 
 > Was Technical consultant, Sichuan Xulai co., ltd | Sep 2020 - Sep 2021
 
 ### Educations
 
 > 1st Class Bachelor of Science at University of Liverpool | Sep 2019 - Jun 2022 | Liverpool, UK
+> 
 > Alevel at The National Mathematics and Science College | Sep 2017 - Jun 2020 | Coventry, UK
+> 
 
 ### Conferences & Societies
 
