@@ -1,10 +1,11 @@
-## 说不定我一生涓滴意念，侥幸汇成河。
+## 说不定我一生涓滴意念侥幸汇成河。
 
 Currently undertaking Phd degree at University of Liverpool & National Tsing Hua University.
 
 ### Research Interests
 
-- Computer Vision
+- Deep Learning, Deep Reinforcement Learning, Computer Vision
+- Autonomous systems
 
 ```markdown
 Syntax highlighted code block
