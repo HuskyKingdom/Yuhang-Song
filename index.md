@@ -1,10 +1,10 @@
 ## 说不定我一生涓滴意念，侥幸汇成河。
 
-Phd Student.
+Currently undertaking Phd degree at University of Liverpool & National Tsing Hua University.
 
-### Markdown
+### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Computer Vision
 
 ```markdown
 Syntax highlighted code block
