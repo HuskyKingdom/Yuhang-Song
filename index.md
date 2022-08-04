@@ -1,15 +1,16 @@
 ## Research & Curriculum Vitae
 
-Currently undertaking PhD degree at University of Liverpool & National Tsing Hua University.
+PhD student at University of Liverpool & National Tsing Hua University.
 
 ### Research Interests
 
 - Deep Learning, Deep Reinforcement Learning, Computer Vision
 - Autonomous Systems
 
-### PhD Research Topic
+### Research
 
-Development of Energy Efficient Machine Learning Models
+Development of Energy Efficient Machine Learning Models.
+DDQN Reinforcement Learning Agent
 
 ### Publitions
 
