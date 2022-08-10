@@ -1,8 +1,8 @@
 ## Research & Curriculum Vitae
 
-PhD student at University of Liverpool & National Tsing Hua University.
+PhD student at University of Liverpool & National Tsing Hua University. TSI Founder and Researcher.
 
-Email me at: *yuhang_ts@yeah.net*
+Email me at: *yuhang@topsoftint.group*
 
 ### Research Interests
 
