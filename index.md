@@ -48,3 +48,10 @@ FIT FREEBUFF 2015 Shanghai Internet Security Conference.
 
 
 [Development of Energy Efficient Machine Learning Models Research Proposal](https://prophetsrc-1305001068.cos.ap-chengdu.myqcloud.com/PhD%20Research%20Proposal.pdf)
+
+
+
+
+#### Also see
+
+[VICI CODE](https://www.vicicode.com/) | [Prof.Nguyen](https://www.csc.liv.ac.uk/~anguyen/) | [Prof.Lee](https://github.com/chunyilee)
